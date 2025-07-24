@@ -22,6 +22,6 @@ _start:
 
 ```lua
        OS  :  Windows, Debian
-Languages  :  Python, Javascript, 
+Languages  :  Python, Javascript
    Editor  :  Visual Studio Code
 ```
